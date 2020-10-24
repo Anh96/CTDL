@@ -209,7 +209,7 @@ void menu()
 {
     //system("cls");
     cout << "1. Quan ly sach"<<endl;
-    cout << "2. Qan ly phieu muon"<<endl;
+    cout << "2. Quan ly phieu muon"<<endl;
 }
 
 
